@@ -1,0 +1,292 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Organic Apples",
+      "category": "Fruits & Vegetables",
+      "price": 4.99,
+      "originalPrice": 7.99,
+      "image": "https://images.unsplash.com/photo-1560806887-1295dbba83f3?w=400&h=400&fit=crop",
+      "rating": 4.8,
+      "reviews": 234,
+      "inStock": true,
+      "discount": 37
+    },
+    {
+      "id": 2,
+      "name": "Fresh Broccoli Bundle",
+      "category": "Fruits & Vegetables",
+      "price": 3.49,
+      "originalPrice": 5.99,
+      "image": "https://images.unsplash.com/photo-1611339555312-e607c04352fa?w=400&h=400&fit=crop",
+      "rating": 4.6,
+      "reviews": 156,
+      "inStock": true,
+      "discount": 42
+    },
+    {
+      "id": 3,
+      "name": "Organic Carrots (1kg)",
+      "category": "Fruits & Vegetables",
+      "price": 2.99,
+      "originalPrice": 4.99,
+      "image": "https://images.unsplash.com/photo-1584622181563-430f63602d4b?w=400&h=400&fit=crop",
+      "rating": 4.7,
+      "reviews": 189,
+      "inStock": true,
+      "discount": 40
+    },
+    {
+      "id": 4,
+      "name": "iPhone 15 Pro",
+      "category": "Electronics",
+      "price": 999,
+      "originalPrice": 1099,
+      "image": "https://images.unsplash.com/photo-1592286927505-1e6e312edd6f?w=400&h=400&fit=crop",
+      "rating": 4.9,
+      "reviews": 542,
+      "inStock": true,
+      "discount": 9
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy Buds",
+      "category": "Electronics",
+      "price": 129,
+      "originalPrice": 179,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+      "rating": 4.5,
+      "reviews": 342,
+      "inStock": true,
+      "discount": 28
+    },
+    {
+      "id": 6,
+      "name": "Sony Headphones WH-1000XM5",
+      "category": "Electronics",
+      "price": 349,
+      "originalPrice": 399,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+      "rating": 4.7,
+      "reviews": 425,
+      "inStock": true,
+      "discount": 12
+    },
+    {
+      "id": 7,
+      "name": "Premium Cotton T-Shirt",
+      "category": "Fashion",
+      "price": 19.99,
+      "originalPrice": 39.99,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop",
+      "rating": 4.4,
+      "reviews": 267,
+      "inStock": true,
+      "discount": 50
+    },
+    {
+      "id": 8,
+      "name": "Designer Denim Jeans",
+      "category": "Fashion",
+      "price": 59.99,
+      "originalPrice": 89.99,
+      "image": "https://images.unsplash.com/photo-1542272604-787c62d465d1?w=400&h=400&fit=crop",
+      "rating": 4.6,
+      "reviews": 198,
+      "inStock": true,
+      "discount": 33
+    },
+    {
+      "id": 9,
+      "name": "Elegant Winter Jacket",
+      "category": "Fashion",
+      "price": 89.99,
+      "originalPrice": 149.99,
+      "image": "https://images.unsplash.com/photo-1539533057592-4ee4ad9b8b72?w=400&h=400&fit=crop",
+      "rating": 4.7,
+      "reviews": 312,
+      "inStock": true,
+      "discount": 40
+    },
+    {
+      "id": 10,
+      "name": "Modern Smart Refrigerator",
+      "category": "Home Appliances",
+      "price": 1299,
+      "originalPrice": 1599,
+      "image": "https://images.unsplash.com/photo-1584622181563-430f63602d4b?w=400&h=400&fit=crop",
+      "rating": 4.8,
+      "reviews": 87,
+      "inStock": true,
+      "discount": 19
+    },
+    {
+      "id": 11,
+      "name": "Premium Washing Machine",
+      "category": "Home Appliances",
+      "price": 699,
+      "originalPrice": 899,
+      "image": "https://images.unsplash.com/photo-1584622181563-430f63602d4b?w=400&h=400&fit=crop",
+      "rating": 4.6,
+      "reviews": 156,
+      "inStock": true,
+      "discount": 22
+    },
+    {
+      "id": 12,
+      "name": "Stainless Steel Air Fryer",
+      "category": "Home Appliances",
+      "price": 129.99,
+      "originalPrice": 179.99,
+      "image": "https://images.unsplash.com/photo-1584622181563-430f63602d4b?w=400&h=400&fit=crop",
+      "rating": 4.7,
+      "reviews": 423,
+      "inStock": true,
+      "discount": 28
+    },
+    {
+      "id": 13,
+      "name": "Organic Face Moisturizer",
+      "category": "Beauty Products",
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=400&fit=crop",
+      "rating": 4.5,
+      "reviews": 378,
+      "inStock": true,
+      "discount": 37
+    },
+    {
+      "id": 14,
+      "name": "Anti-Aging Serum Set",
+      "category": "Beauty Products",
+      "price": 49.99,
+      "originalPrice": 79.99,
+      "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=400&fit=crop",
+      "rating": 4.7,
+      "reviews": 234,
+      "inStock": true,
+      "discount": 37
+    },
+    {
+      "id": 15,
+      "name": "Luxury Lipstick Collection",
+      "category": "Beauty Products",
+      "price": 34.99,
+      "originalPrice": 59.99,
+      "image": "https://images.unsplash.com/photo-1586015592519-db4b4ce15b79?w=400&h=400&fit=crop",
+      "rating": 4.6,
+      "reviews": 189,
+      "inStock": true,
+      "discount": 42
+    },
+    {
+      "id": 16,
+      "name": "Organic Tea Assortment",
+      "category": "Grocery",
+      "price": 12.99,
+      "originalPrice": 19.99,
+      "image": "https://images.unsplash.com/photo-1597318013956-29b27b4b3a20?w=400&h=400&fit=crop",
+      "rating": 4.8,
+      "reviews": 456,
+      "inStock": true,
+      "discount": 35
+    },
+    {
+      "id": 17,
+      "name": "Premium Whole Wheat Bread",
+      "category": "Grocery",
+      "price": 5.99,
+      "originalPrice": 8.99,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&h=400&fit=crop",
+      "rating": 4.4,
+      "reviews": 267,
+      "inStock": true,
+      "discount": 33
+    },
+    {
+      "id": 18,
+      "name": "Artisan Coffee Beans (1kg)",
+      "category": "Grocery",
+      "price": 18.99,
+      "originalPrice": 29.99,
+      "image": "https://images.unsplash.com/photo-1577282409953-fdfb2845dc69?w=400&h=400&fit=crop",
+      "rating": 4.9,
+      "reviews": 534,
+      "inStock": true,
+      "discount": 37
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Grocery",
+      "icon": "🛒",
+      "color": "from-yellow-400 to-yellow-600"
+    },
+    {
+      "id": 2,
+      "name": "Electronics",
+      "icon": "📱",
+      "color": "from-blue-400 to-blue-600"
+    },
+    {
+      "id": 3,
+      "name": "Fashion",
+      "icon": "👗",
+      "color": "from-pink-400 to-pink-600"
+    },
+    {
+      "id": 4,
+      "name": "Home Appliances",
+      "icon": "🏠",
+      "color": "from-purple-400 to-purple-600"
+    },
+    {
+      "id": 5,
+      "name": "Beauty Products",
+      "icon": "💄",
+      "color": "from-red-400 to-red-600"
+    },
+    {
+      "id": 6,
+      "name": "Fruits & Vegetables",
+      "icon": "🍎",
+      "color": "from-green-400 to-green-600"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop",
+      "rating": 5,
+      "comment": "Amazing products and excellent customer service. Delivery was fast and items were well-packaged!",
+      "product": "Premium Organic Apples"
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop",
+      "rating": 5,
+      "comment": "Great quality products at unbeatable prices. Will definitely shop here again!",
+      "product": "iPhone 15 Pro"
+    },
+    {
+      "id": 3,
+      "name": "Emma Davis",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop",
+      "rating": 4.5,
+      "comment": "Love the new designer jeans! Perfect fit and great quality. Highly recommended!",
+      "product": "Designer Denim Jeans"
+    },
+    {
+      "id": 4,
+      "name": "James Wilson",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop",
+      "rating": 5,
+      "comment": "The air fryer is fantastic! Easy to use and cooks food perfectly every time.",
+      "product": "Stainless Steel Air Fryer"
+    }
+  ]
+}
